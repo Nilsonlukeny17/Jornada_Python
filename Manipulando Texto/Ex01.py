@@ -9,3 +9,4 @@ milhar: 1
 '''
 número = int(input('Digite um número: '))
 
+# Não entendi no momento. Preferi deixar assim! Vou entender mais tarde!
