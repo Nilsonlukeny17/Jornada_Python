@@ -1,8 +1,8 @@
 Desde sempre o meu sonho e alvo foi ser programador! Mas infelizmente durante muito tempo não consegui alcançar esse alvo tão desejado.
 Descobri que faltava real motivação, vontade e desejo de conseguir. O problema estava em mim!
-Eu precisava mudar a minha mentalidade para conseguir ser o que queria ser. Por isso, reavaliei as minhas motivações e comecei a fazer as mmudanças necessárias
+Eu precisava mudar a minha mentalidade para conseguir ser o que queria ser. Por isso, reavaliei as minhas motivações e comecei a fazer as mudanças necessárias
 Decidi entrar no famoso "Modo Caverna", onde me desliguei de praticamente quase tudo e decidi focar naquilo que eu queria ser (Programador), e por incrível que pareça, as coisas começaram a dar certo!
-Eu tinha mais motivação e conseguia cumprir o meu plano de estudo. E para ter registado todo meu progresso, decidi que criar esse repositório onde estarão todos os exercícios que fui fazendo durante essa jornada.
+Eu tinha mais motivação e conseguia cumprir o meu plano de estudo. E para ter registado todo meu progresso, decidi criar esse repositório onde estarão todos os exercícios que fui fazendo durante essa jornada.
 Além dos exercícios, estarão também os projectos que fui fazendo para colocar no meu portfólio, desde os mais simples, até os mais complexos.
 Espero que apreciem e nos vemos daqui a um tempo, quando eu for um verdadeiro PROGRAMADOR!!!
 
