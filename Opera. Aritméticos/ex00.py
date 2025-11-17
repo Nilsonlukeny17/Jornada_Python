@@ -8,4 +8,4 @@ print('Analisando o número, o seu antecessor é {} e o seu sucessor é {}'. for
 numero2 = int(input('Digite um valor: '))
 ante5 = numero2 - 5
 suce5 = numero2 + 5
-print('Analisando o número, os números que o antecedem e sucedem são {} e {}'. format(ante5, suce5))
+print('Analisando o número, os números que o antecedem e sucedem são {} e {}'. format(ante5, suce5)) 
