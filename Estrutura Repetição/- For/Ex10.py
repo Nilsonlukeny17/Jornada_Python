@@ -8,9 +8,9 @@ mulheres com menos de 20 anos"""
 
 soma_idade = 0 # Variável para receber o valor da soma de todas as idades
 média_idade = soma_idade / 4 # Calculando a média
-maior_idade_homem = 0 # Vairável que recebe a maior idade do homem
+maior_idade_homem = 0 # Variável que recebe a maior idade do homem
 nome_mais_velho = '' # Variável que recebe o nome do homem mais velho
-mulheres_menos_20anos = 0 # Varável que recebe o nº de vezes que idade para mulheres for inferior a 20
+mulheres_menos_20anos = 0 # Variável que recebe o nº de vezes que a idade das mulheres for inferior a 20
 for c in range(1, 5):
     print(f'------ {c}ª Pessoa ------')
     nome = str(input('Nome: ')).strip()
